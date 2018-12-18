@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <Version>2.0.1</Version>
     <TargetFramework>netstandard2.0</TargetFramework>
 
     <Title>Finbuckle.MultiTenant.EntityFrameworkCore</Title>
